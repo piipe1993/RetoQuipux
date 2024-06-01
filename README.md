@@ -1,4 +1,4 @@
-# Prueba técnica Devco
+# Prueba técnica Quipux
 
 Este proyecto tiene como objetivo, el desarrollo de la prueba técnica de Quipux en el portal de movilidad
 

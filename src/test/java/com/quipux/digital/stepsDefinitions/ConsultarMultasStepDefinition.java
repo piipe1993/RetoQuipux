@@ -17,10 +17,11 @@ public class ConsultarMultasStepDefinition {
     public void elUsuarioIngreseElDocumentoAConsultar(String documento) {
         OnStage.theActorInTheSpotlight().attemptsTo(ConsultarMultas.conDatos(documento));
     }
+
     @Entonces("el usuario visualizara el listado de multas")
     public void elUsuarioVisualizaraElListadoDeMultas() {
         OnStage.theActorInTheSpotlight().should(
-                seeThat("The Displayed Total Balance:", EstadoMultas.validar(),equalTo("Estado"))
+                seeThat("The Displayed Total Balance:", EstadoMultas.validar(), equalTo("Estado"))
         );
     }
 }

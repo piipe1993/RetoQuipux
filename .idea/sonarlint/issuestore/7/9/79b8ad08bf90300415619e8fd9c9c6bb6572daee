@@ -1,0 +1,57 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ë†ÅŒ
+u
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").(²öÔËýÿÿÿÿ
+n	java:S135'"YReduce the total number of break and continue statements in this loop to use at most one.(Ù÷Âé
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ö¸å”ýÿÿÿÿ
+m	java:S127†"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÉÎ´?
+s	java:S127‹"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ
+s	java:S127“"XRefactor the code in order to not assign to this loop counter from within the loop body.(µ×ÏÑüÿÿÿÿ
+J
+java:S1066~"/Merge this if statement with the enclosing one.(ôóó×þÿÿÿÿ
+7
+java:S1643a"Use a StringBuilder instead.(Š’”×þÿÿÿÿ
+7
+java:S1643e"Use a StringBuilder instead.(Š’”×þÿÿÿÿ
+7
+java:S1643o"Use a StringBuilder instead.(Š’”×þÿÿÿÿ
+7
+java:S1643v"Use a StringBuilder instead.(Š’”×þÿÿÿÿ
+c
+java:S2259‘"MA "NullPointerException" could be thrown; "dataVectorRango" is nullable here.(ýáæ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(®¯êôýÿÿÿÿ
+n
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 102 to the 15 allowed.(—ûùœÿÿÿÿÿ
+O
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(øÚÞÜ
+I
+java:S1481,"3Remove this unused "excelDataRange" local variable.(¼ÒÊ…
+Q	java:S1251"<This block of commented-out lines of code should be removed.(³¦„Š
+Q	java:S1252"<This block of commented-out lines of code should be removed.(„…„
+_
+java:S18589"J"dataVector" is an array of strings, there's no need to call "toString()".(³™õ5
+V	java:S125<"<This block of commented-out lines of code should be removed.(‹Êºîÿÿÿÿÿ
+`
+java:S1858D"J"dataVector" is an array of strings, there's no need to call "toString()".(®åºÚ
+p
+java:S3923_"[Remove this conditional structure or edit its code blocks so that they're not all the same.(ÅÎŒR
+<
+java:S1125_"'Remove the unnecessary boolean literal.(ÅÎŒR
+B
+java:S1125k"'Remove the unnecessary boolean literal.(…ÚÏ³ýÿÿÿÿ
+B
+java:S1125t"'Remove the unnecessary boolean literal.(ïˆúùúÿÿÿÿ
+B
+java:S1125}"'Remove the unnecessary boolean literal.(—Øñêøÿÿÿÿ
+B
+java:S1125~"'Remove the unnecessary boolean literal.(ôóó×þÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(¿Œñüýÿÿÿÿ
+C
+java:S1125"'Remove the unnecessary boolean literal.(…ÚÏ³ýÿÿÿÿ
+\
+java:S4719Ù"9Replace charset name argument with StandardCharsets.UTF_8(âÙþôùÿÿÿÿ8åø¡¦ý1
+â
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 134 to 64, Complexity from 26 to 14, Nesting Level from 8 to 2, Number of Variables from 20 to 6.(—ûùœÿÿÿÿÿ

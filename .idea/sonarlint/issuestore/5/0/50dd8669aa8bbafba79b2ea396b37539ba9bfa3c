@@ -1,0 +1,13 @@
+
+J
+java:S1659"(Declare "contrasena" on a separate line.(ƒßóıÿÿÿÿ8’õ·¥ı1
+^
+java:S1128"<Remove this unused import 'io.cucumber.datatable.DataTable'.(€ƒ›øÿÿÿÿ8•õ·¥ı1
+e
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ğ”„Îüÿÿÿÿ8•õ·¥ı1
+d
+java:S1128	"GRemove this unused import 'net.serenitybdd.screenplay.waits.WaitUntil'.(˜• Ü8•õ·¥ı1
+n
+java:S1128"LRemove this unused import 'com.quipux.digital.userinterfaces.CrearCuentaUI'.(Ÿª¹÷ûÿÿÿÿ8Í”¸¥ı1
+€
+java:S1128"dRemove this unused import 'net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isClickable'.(ûó—r8•õ·¥ı1

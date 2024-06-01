@@ -17,7 +17,7 @@ URL: https://digital.quipux.com/portal-movilidad/#/inicio-login
 
 * clonar el repositorio localmente con el comando:
 ```bash
-git clone https://github.com/StivenManco26/Travelocity.git
+git clone https://github.com/piipe1993/RetoQuipux.git
 ```
 * Se debe importar el proyecto en IntelliJ como Gradle.
 

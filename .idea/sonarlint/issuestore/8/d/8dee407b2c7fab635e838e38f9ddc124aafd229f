@@ -1,0 +1,25 @@
+
+t
+java:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿•öªùÿÿÿÿ
+o
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒB
+o
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒB
+
+java:S1319Å"sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(Ü×üéüÿÿÿÿ
+s
+java:S1488F"]Immediately return this expression instead of assigning it to the temporary variable "sheet".(‡ê…„
+s
+java:S1488Y"]Immediately return this expression instead of assigning it to the temporary variable "sheet".(ÛÎ¶ï
+¯
+java:S1130h"“Remove the declaration of thrown exception 'org.apache.poi.openxml4j.exceptions.InvalidFormatException', as it cannot be thrown from method's body.(øû´“ÿÿÿÿÿ
+i
+java:S1871£"MThis branch's code block is the same as the block for the branch on line 156.(šÓŞúÿÿÿÿ
+d
+java:S1871"MThis branch's code block is the same as the block for the branch on line 156.(Ì‡Ûä
+i
+java:S1871¡"MThis branch's code block is the same as the block for the branch on line 156.(•³í‹úÿÿÿÿ
+n
+java:S3776Å"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Ü×üéüÿÿÿÿ
+â
+java:S6541Å"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 77 to 64, Complexity from 20 to 14, Nesting Level from 3 to 2, Number of Variables from 20 to 6.(Ü×üéüÿÿÿÿ

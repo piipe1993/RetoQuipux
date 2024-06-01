@@ -1,0 +1,17 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ìù¡üÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ªžžù
+o
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôúÈÌ
+…
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".( øÔn
+h
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¶ÈÖëþÿÿÿÿ
+`
+java:S2095"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(‰ûÄë
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ªÆ›š
+M
+java:S1874"7Remove this use of "getCellTypeEnum"; it is deprecated.(µß™é

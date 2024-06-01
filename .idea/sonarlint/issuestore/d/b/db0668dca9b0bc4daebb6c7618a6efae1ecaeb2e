@@ -1,0 +1,24 @@
+
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çá²ûûÿÿÿÿ8—Î¥ı1
+{
+java:S1104"YMake listaTiposDoc a static final constant or non-public and provide accessors if needed.(®³Êıÿÿÿÿ8—Î¥ı1
+U
+java:S1444"3Make this "public static listaTiposDoc" field final(®³Êıÿÿÿÿ8—Î¥ı1
+?
+java:S2386"Make this member "protected".(®³Êıÿÿÿÿ8Î¥ı1
+W
+java:S1854)";Remove this useless assignment to local variable "tipoDoc".(¥úÄ&8¡Î¥ı1
+H
+java:S1481)",Remove this unused "tipoDoc" local variable.(¥úÄ&8¢Î¥ı1
+]	java:S125:"<This block of commented-out lines of code should be removed.(¸¯¶ºıÿÿÿÿ8£Î¥ı1
+e
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ğ”„Îüÿÿÿÿ8¤Î¥ı1
+h
+java:S1128
+"FRemove this unused import 'net.serenitybdd.screenplay.actions.Scroll'.(ÆğŒÄşÿÿÿÿ8¤Î¥ı1
+n
+java:S1128"QRemove this unused import 'net.serenitybdd.screenplay.actions.SelectFromOptions'.(Õú“™8¤Î¥ı1
+R
+java:S1128"5Remove this unused import 'org.openqa.selenium.Keys'.(§Õ8¤Î¥ı1
+
+java:S1128"bRemove this unused import 'net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isVisible'.(‡ª8¤Î¥ı1

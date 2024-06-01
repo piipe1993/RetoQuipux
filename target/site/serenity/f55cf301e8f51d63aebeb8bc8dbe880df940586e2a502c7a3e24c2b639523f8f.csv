@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CASO0003 consultar Multas","consultar Multas dentro portal movilidad","ERROR","2024-06-01T12:17:04.264346-05:00[America/Bogota]","0.0","8.04"
+"CASO0001 Crear Cuenta","Crear cuenta de usuario dentro portal movilidad","SUCCESS","2024-06-01T12:17:12.3356397-05:00[America/Bogota]","0.0","14.99"
+"CASO0001 Crear Cuenta","Iniciar sesion dentro portal movilidad","SUCCESS","2024-06-01T11:48:37.8717504-05:00[America/Bogota]","0.0","7.58"
+"CASO0002 Crear Cuenta","Iniciar sesion dentro portal movilidad","SUCCESS","2024-06-01T12:17:27.3363314-05:00[America/Bogota]","0.0","8.33"
